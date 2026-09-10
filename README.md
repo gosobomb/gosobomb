@@ -40,16 +40,19 @@
   - 원인:
   - 해결:
   - 결과:
-👉 레포 링크: 
+<br/>
+👉 레포 링크:
+
 ---
 ## 부트캠프 마케팅 프로젝트
-- 역할: 
-- 기술:
-- 한 줄 요약:
+- 역할: 팀장 / 지표 데이터 분석 / 
+- 기술: Excel, Google GDN, Google Demand Gen, YouTube, Meta 광고
+- 한 줄 요약: AI 웹·앱 개발자 양성 과정의 디지털 광고 캠페인을 운영하고 매체·소재별 성과를 분석하여 광고 효율을 개선한 프로젝트
 - 트러블슈팅
   - 문제:
   - 원인:
   - 해결:
   - 결과:
+<br/>
 👉 레포 링크: https://www.figma.com/slides/hRg1v9hLYjb8886KlbIgqe/%EB%94%94%EB%A7%88-11%EA%B8%B0-5%EC%A1%B0-%EC%A0%9C%EC%95%88%EC%84%9C?node-id=2-42&t=dZZ3bvxQSZY5TerT-0
 <br/>
