@@ -41,7 +41,7 @@
   - 해결:
   - 결과:
 <br/>
-👉 레포 링크:
+👉 레포 링크: https://github.com/gosobomb/PPto
 
 ---
 ## 부트캠프 마케팅 프로젝트
